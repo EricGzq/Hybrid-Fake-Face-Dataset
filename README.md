@@ -25,7 +25,7 @@ Please cite our paper if HFF dataset is used in your research:
 @article{article,
 author = {Guo, Zhiqing and Yang, Gaobo and Chen, Jiyou and Sun, Xingming},
 year = {2020},
-month = {05},
+month = {5},
 pages = {1-14},
 title = {Fake face detection via adaptive manipulation traces extraction network},
 journal = {arXiv}
