@@ -1,5 +1,5 @@
 # Hybrid Fake Face (HFF) Dataset 
-The HFFD is a large fake face dataset, which contains more than 155k face images.
+The HFF dataset is a large fake face dataset, which contains more than 155k face images.
 We build a hybrid fake face (HFF) dataset, which contains eight types of face images. For real face images, three types of face images are randomly selected from three open datasets. They are low-resolution face images from CelebA, high-resolution face images from CelebA-HQ, and face video frames from FaceForensics, respectively. Thus, real face images under internet scenarios are simulated as real as possible. Then, some most representative face manipulation techniques, which include PGGAN and StyleGAN for identity manipulation, Face2Face and Glow for face expression manipulation, and StarGAN for face attribute transfer, are selected to produce fake face images. As shown below, we summarizes the details of the HFF dataset.
 
 <img src="table.png" alt="demo" width="600"/>
