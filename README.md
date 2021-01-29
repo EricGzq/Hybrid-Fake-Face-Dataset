@@ -3,7 +3,7 @@ We build a hybrid fake face (HFF) dataset, which contains eight types of face im
 
 <img src="table.png" alt="demo" width="600"/>
 
-Please consult our [paper](https://arxiv.org/abs/2005.04945) for more information. The model code is [here](https://github.com/EricGzq/AMTENnet).
+Please consult our [paper](https://www.sciencedirect.com/science/article/pii/S107731422100014X) for more information. The model code is [here](https://github.com/EricGzq/AMTENnet).
 
 ## HFF dataset terms
 Please agree to the following terms of use before we provide you with access to HFF dataset.
