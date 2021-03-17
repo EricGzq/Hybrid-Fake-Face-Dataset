@@ -22,10 +22,12 @@ If you agree to the above 'HFF dataset terms' and would like to download HFF dat
 ## Citation
 Please cite our paper if HFF dataset is used in your research:
 ```
-@article{AMTENnet,
+@article{AMTEN,
   title={Fake face detection via adaptive manipulation traces extraction network},
   author={Guo, Zhiqing and Yang, Gaobo and Chen, Jiyou and Sun, Xingming},
   journal={Computer Vision and Image Understanding},
+  volume={204},
+  pages={103170},
   year={2021},
   publisher={Elsevier}
 }
