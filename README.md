@@ -13,7 +13,7 @@ Please agree to the following terms of use before we provide you with access to 
 * We reserve the right to terminate researchers' access to the dataset at any time.
 
 ## Download
-If you agree to the above 'HFF dataset terms' and would like to download HFF dataset, please answer the following questions and send them to us at [guozhiqing@hnu.edu.cn](mailto:guozhiqing@hnu.edu.cn).
+If you agree to the above 'HFF dataset terms' and would like to download HFF dataset, please answer the following questions and send them to us at [guozhiqing@hnu.edu.cn](mailto:guozhiqing@xju.edu.cn).
 * Name
 * Affiliation
 * Principal Investigator/Advisor's Name and Email
